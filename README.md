@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=userziming&label=Profile%20views&color=0e75b6&style=flat" alt="userziming" /> </p>
 
-- 🔭 I’m currently working on **Insurance Agent Fraud Detection**
+- 🔭 I’m currently working on **Insurance Agent Fraud Detection Project**
 
 - 🌱 I’m currently learning **NLP, LLM, Socket Programming**
 
