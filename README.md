@@ -20,7 +20,7 @@
 - [Acquire Board Game](https://github.com/zimiwang/Acquire-Board-Game)
 - [Todo List Application](https://github.com/zimiwang/Todo-List-Application)
 
-### Previous General Course Assignments:
+### General Course Assignments:
 | Course         | Repository |
 | -------------- | ---------- |
 | Machine Learning | [View Assignments](https://github.com/zimiwang/Machine-Learning-Projects) |
