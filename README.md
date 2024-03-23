@@ -28,6 +28,7 @@
 | Data Mining | [View Assignments](https://github.com/zimiwang/Data-Mining) |
 | Computer Vision | [View Assignments](https://github.com/zimiwang/Computer-Vision) |
 | Image Processing | [View Assignments](https://github.com/zimiwang/Image-Processing) |
+| Network Security | [View Assignments](https://github.com/zimiwang/Network-Security) |
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
