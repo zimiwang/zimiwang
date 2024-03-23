@@ -9,16 +9,25 @@
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/zimiwang](www.linkedin.com/in/zimiwang)
 
-- 📫 How to reach me **wangzimi@isu.edu**
+- 📫 How to reach me **u1431740@utah.edu**
 
 - 📄 Know about my experiences [www.linkedin.com/in/zimiwang](www.linkedin.com/in/zimiwang)
 
 
-<h3 align="left">Previous Projects:</h3>
-<p align="left">
+### Course Projects:
+- [Income Prediction Using Decision Trees & Random Forests](https://github.com/zimiwang/Machine-Learning-Projects/tree/main/kaggle_project)
+- [Database Management System](https://github.com/zimiwang/Database-Management-System)
+- [Acquire Board Game](https://github.com/zimiwang/Acquire-Board-Game)
+- [Todo List Application](https://github.com/zimiwang/Todo-List-Application)
 
-
-</p>
+### Previous General Course Assignments:
+| Course         | Repository |
+| -------------- | ---------- |
+| Machine Learning | [View Assignments](https://github.com/zimiwang/Machine-Learning-Projects) |
+| Deep Learning | [View Assignments](https://github.com/zimiwang/Deep-Learning) |
+| Data Mining | [View Assignments](https://github.com/zimiwang/Data-Mining) |
+| Computer Vision | [View Assignments](https://github.com/zimiwang/Computer-Vision) |
+| Image Processing | [View Assignments](https://github.com/zimiwang/Image-Processing) |
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
