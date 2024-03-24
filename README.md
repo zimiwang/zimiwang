@@ -15,10 +15,14 @@
 
 
 ### Course Projects:
-- [Income Prediction Using Decision Trees & Random Forests](https://github.com/zimiwang/Machine-Learning-Projects/tree/main/kaggle_project)
-- [Database Management System](https://github.com/zimiwang/Database-Management-System)
-- [Acquire Board Game](https://github.com/zimiwang/Acquire-Board-Game)
-- [Todo List Application](https://github.com/zimiwang/Todo-List-Application)
+- [Income Prediction Using Decision Trees & Random Forests (Python)](https://github.com/zimiwang/Machine-Learning-Projects/tree/main/kaggle_project)
+- [Create New Music from the Bach Chorales by Using Deep Learning Technologies (Python)](https://github.com/zimiwang/Individual-Project/tree/main/Create%20New%20Music%20from%20the%20Bach%20Chorales)
+- [Dogs and Cats Classification (Python)](https://github.com/zimiwang/Individual-Project/blob/main/Cats%20and%20Dogs%2C%20Better%20Classification/Cats%20and%20Dogs.ipynb)
+- [Predicting NBA 2020 Sports Winners by Using ML Technologies (Python)](https://github.com/zimiwang/Individual-Project/blob/main/Predicting%20NBA%202020%20Sports%20Winners/Project_Wang.ipynb)
+- [Semi-Supervised Learning (Python)](https://github.com/zimiwang/Individual-Project/tree/main/Semi-Supervised%20Learning)
+- [Database Management System (C++)](https://github.com/zimiwang/Database-Management-System)
+- [Acquire Board Game (Java)](https://github.com/zimiwang/Acquire-Board-Game)
+- [Todo List Application (Java)](https://github.com/zimiwang/Todo-List-Application)
 
 ### General Course Assignments:
 | Course         | Repository |
