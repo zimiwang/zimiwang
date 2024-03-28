@@ -16,6 +16,7 @@
 
 ### Course Projects:
 - [Income Prediction Using Decision Trees & Random Forests (Python)](https://github.com/zimiwang/Machine-Learning-Projects/tree/main/kaggle_project)
+- [Text Summarization Using Advanced Neural Nets (Python)](https://github.com/zimiwang/Text-Summarization)
 - [House Price Prediction Using Regression Techniques (Python)](https://github.com/zimiwang/House-Price-Prediction)
 - [Create New Music from the Bach Chorales by Using Deep Learning Technologies (Python)](https://github.com/zimiwang/Individual-Project/tree/main/Create%20New%20Music%20from%20the%20Bach%20Chorales)
 - [Dogs and Cats Classification (Python)](https://github.com/zimiwang/Individual-Project/blob/main/Cats%20and%20Dogs%2C%20Better%20Classification/Cats%20and%20Dogs.ipynb)
