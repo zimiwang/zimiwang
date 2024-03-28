@@ -13,6 +13,9 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/zimiwang](www.linkedin.com/in/zimiwang)
 
+### Machine Learning Research
+- [The Effects of Supervised Modeling and Unsupervised Hierarchical Clustering for Topic Clustering as They Apply to Educational Videos on Mathematics](https://github.com/zimiwang/Civita-Laurea-Project)
+
 
 ### Course Projects:
 - [Income Prediction Using Decision Trees & Random Forests (Python)](https://github.com/zimiwang/Machine-Learning-Projects/tree/main/kaggle_project)
