@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ziming Wang</h1>
-<h3 align="center">A Graduate Student Learner in ML/AI</h3>
+<h3 align="center">A Graduate Student Learner in Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zimiwang&label=Profile%20views&color=0e75b6&style=flat" alt="zimiwang" /> </p>
 
 - 🔭 I’m currently working on **Insurance Agent Fraud Detection Project**
 
-- 🌱 I’m currently learning **NLP, LLM, Socket Programming**
+- 🌱 I’m currently learning **Socket Programming**
 
 - 👨‍💻 All of my projects are available at [www.linkedin.com/in/zimiwang](www.linkedin.com/in/zimiwang)
 
